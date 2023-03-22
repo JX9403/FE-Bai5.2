@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+th{
+    background-color:#01987A ;
+    color : white;
+    text-align: center;
+}
+
+
+th, td{
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding : 10px 20px;
+}
+
